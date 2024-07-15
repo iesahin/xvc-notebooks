@@ -1,6 +1,0 @@
-
-# Add patterns of files xvc should ignore, which could improve
-# the performance.
-# It's in the same format as .gitignore files.
-
-.DS_Store
