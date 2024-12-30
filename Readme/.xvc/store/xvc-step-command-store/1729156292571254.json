@@ -1,0 +1,1 @@
+[{"Add":{"entity":[15,269923211522165176],"value":{"command":"echo \"${XVC_REGEX_ADDED_ITEMS}\" >> dr-iq-scores.csv"}}}]

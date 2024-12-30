@@ -1,0 +1,1 @@
+[{"Add":{"entity":[12,269923211522165176],"value":{"File":{"content_digest":{"algorithm":"Blake3","digest":[43,86,244,111,13,243,28,110,140,213,105,20,239,62,73,75,13,146,82,17,148,152,66,86,154,230,154,246,213,214,40,119]},"path":"requirements.txt","xvc_metadata":{"file_type":"File","modified":{"nanos_since_epoch":712745032,"secs_since_epoch":1721045326},"size":14}}}}}]
